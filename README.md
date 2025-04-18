@@ -4,7 +4,6 @@
 **Semester:** Spring 2025  
 **Instructor:** Dr. Abeer Abdel Khaleq  
 **Student:** Farrukh Israilov  
-**Points:** 100  
 **Assignment:** Heaps and Priority Queues
 
 ## 📋 Overview
